@@ -1,0 +1,22 @@
+.certifications {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .certifications h2 {
+    font-size: 2em;
+    background: linear-gradient(90deg, #ff8c00, #e52e71);
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+  
+  .certifications ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .certifications li {
+    font-size: 1.2em;
+    margin: 10px 0;
+  }
+  

@@ -1,0 +1,16 @@
+.education {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .education h2 {
+    font-size: 2em;
+    background: linear-gradient(90deg, #ff8c00, #e52e71);
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+  
+  .education p {
+    font-size: 1.2em;
+  }
+  

@@ -1,0 +1,22 @@
+.skills {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .skills h2 {
+    font-size: 2em;
+    background: linear-gradient(90deg, #ff8c00, #e52e71);
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+  
+  .skills ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .skills li {
+    font-size: 1.2em;
+    margin: 10px 0;
+  }
+  
