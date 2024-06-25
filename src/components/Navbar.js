@@ -6,16 +6,17 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <ul>
-        <li><Link to="/">Home</Link></li>
-        <li><Link to="/skills">Skills</Link></li>
-        <li><Link to="/experience">Experience</Link></li>
-        <li><Link to="/projects">Projects</Link></li>
-        <li><Link to="/education">Education</Link></li>
-        <li><Link to="/certifications">Certifications</Link></li>
+        <li><Link to="/portfolio">Home</Link></li>
+        <li><Link to="/portfolio/skills">Skills</Link></li>
+        <li><Link to="/portfolio/experience">Experience</Link></li>
+        <li><Link to="/portfolio/projects">Projects</Link></li>
+        <li><Link to="/portfolio/education">Education</Link></li>
+        <li><Link to="/portfolio/certifications">Certifications</Link></li>
       </ul>
     </nav>
   );
 }
 
 export default Navbar;
+
 

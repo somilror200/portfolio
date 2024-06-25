@@ -14,12 +14,12 @@ function App() {
       <div>
         <Navbar />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/skills" element={<Skills />} />
-          <Route path="/experience" element={<Experience />} />
-          <Route path="/projects" element={<Projects />} />
-          <Route path="/education" element={<Education />} />
-          <Route path="/certifications" element={<Certifications />} />
+          <Route path="/portfolio" element={<Home />} />
+          <Route path="/portfolio/skills" element={<Skills />} />
+          <Route path="/portfolio/experience" element={<Experience />} />
+          <Route path="/portfolio/projects" element={<Projects />} />
+          <Route path="/portfolio/education" element={<Education />} />
+          <Route path="/portfolio/certifications" element={<Certifications />} />
         </Routes>
       </div>
     </Router>
@@ -27,4 +27,7 @@ function App() {
 }
 
 export default App;
+
+
+
 
