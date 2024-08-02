@@ -1,0 +1,29 @@
+.contact {
+    text-align: left;
+    padding: 20px;
+  }
+  
+  .contact h2 {
+    color: #007bff;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 10px;
+  }
+  
+  input, textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    align-self: flex-start;
+  }
+  

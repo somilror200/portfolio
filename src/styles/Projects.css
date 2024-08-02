@@ -1,0 +1,36 @@
+.projects {
+    padding: 20px;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .project h3 {
+    margin: 0 0 10px;
+  }
+  
+  .project p {
+    margin: 0 0 10px;
+  }
+  
+  .project a {
+    text-decoration: none;
+  }
+  
+  .project button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .project button:hover {
+    background-color: #0056b3;
+  }
+  
